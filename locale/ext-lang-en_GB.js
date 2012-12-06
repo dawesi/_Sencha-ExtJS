@@ -4,6 +4,7 @@
  *
  * English (UK) Translations
  * updated to 2.2 by Condor (8 Aug 2008)
+ * updated by Dawesi (7 Dec 2012)
  */
 Ext.onReady(function() {
     var cm = Ext.ClassManager,

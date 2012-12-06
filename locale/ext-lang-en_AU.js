@@ -3,7 +3,7 @@
  * Thank you Mystix!
  *
  * English (AU) Translations
- * created by Chris Dawes (2012) from en_GB (updated to 2.2 by Condor (8 Aug 2008))
+ * created by Dawesi (2012) - modified from en_GB
  */
 Ext.onReady(function() {
     var cm = Ext.ClassManager,
