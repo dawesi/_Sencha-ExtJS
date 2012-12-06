@@ -78,8 +78,7 @@ Ext.onReady(function() {
         Ext.apply(Ext.util.Format, {
             thousandSeparator: ',',
             decimalSeparator: '.',
-            currencySign: '$',
-            // UK Pound
+            currencySign: '$',     // AU dollar
             dateFormat: 'd/m/Y'
         });
     }
